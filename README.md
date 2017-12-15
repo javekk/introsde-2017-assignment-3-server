@@ -39,4 +39,10 @@ It is possible perform all the request above on the following heroku server
   ```
    https://introsdeass3.herokuapp.com/sdelab/
   ```
+  or in a local machine running the folllowing:
+  
+  ```
+   ant start
+  ```
+  
 ## 4. Additional Notes
