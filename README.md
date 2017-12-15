@@ -3,7 +3,7 @@
 ## 1. Identification
 * Perini Raffaele 196339
 * raffaele.perini@studenti.unitn.it
-* __My Server URL__: https://introsdeass3.herokuapp.com/sdelab/
+* __My Server URL__: https://introsdeass3.herokuapp.com/ws/people?wsdl
 
 ## 2. Project
 This is a SOAP server. The main parts of this server are People and Activities. A student can have a different number of Activities(0 to n), that be stored as the preferred activities of this student. In this server it is possible to perform all the CRUD operations for people, and manage their preferred activities.
